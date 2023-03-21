@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">  
-Chatter is a demo application showing how to create a chat app from scratch using <a href="https://flutter.dev/">Flutter</a> and the <a href="https://pub.dev/packages/stream_chat_flutter_core/">Stream Chat Flutter Core package</a>.
+DarkServer is a Android/IOS application made in <a href="https://flutter.dev/">Flutter</a> and the <a href="https://pub.dev/packages/stream_chat_flutter_core/">Dark Server Chat Flutter Core package</a>.
 </br>
 
 <p align="center">
@@ -19,11 +19,11 @@ Chatter is a demo application showing how to create a chat app from scratch usin
 ## Where To Start
 If you're new to Stream Chat Flutter, we recommend taking a look at the official tutorial: https://getstream.io/chat/flutter/tutorial/
 
-Using the Stream Chat Flutter package you'll get a full working chat experience with minimal code.
+<!-- Using the Stream Chat Flutter package you'll get a full working chat experience with minimal code. -->
 
 This repository demonstrates how to use the [Stream Chat Flutter Core package](https://pub.dev/packages/stream_chat_flutter_core) to build your own UI components from scratch.
 
-The video tutorials provide a step-by-step guide to understand the code in this repository: [Chatter YouTube series playlist](https://www.youtube.com/watch?v=vgqBc7jni8c&list=PLNBhvhkAJG6sH7dkmwt4BiCclFkMoXq4r)
+The video tutorials provide a step-by-step guide to understand the code in this repository: [Dark Server](https://www.youtube.com/watch?v=vgqBc7jni8c&list=PLNBhvhkAJG6sH7dkmwt4BiCclFkMoXq4r)
 
 ## More Samples
 Looking for more Flutter content? Take a look at our [samples repository](https://github.com/GetStream/flutter-samples) to see what you can create using Stream and Flutter.
